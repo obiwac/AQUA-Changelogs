@@ -1,0 +1,7 @@
+
+* Changed the version name from beta D to beta G in the About app
+* Fixed the clock widget in the kernel compat wrapper
+* Fixed the clock in the Utilities application in the kernel compat wrapper
+* Fixed the widget page breifly appearing when the DE loaded
+* Sped up the widget page
+* Improved theoretical stability even more

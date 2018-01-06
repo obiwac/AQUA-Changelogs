@@ -1,0 +1,9 @@
+
++ Finally added a proper cursor
++ More has been added to the "Specs" app
++ New "Run" dialog on the desktop to quickly run commands
++ Added "aqua version" string placeholder, used in the "About" app
++ Finished the layout compiler
+
+* Fixed typing in notes
+* Fixed powering off in the widgets page waiting until user has returned to dekstop
