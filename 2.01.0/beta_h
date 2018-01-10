@@ -4,5 +4,6 @@
 + Added "aqua version" string placeholder, used in the "About" app
 + Finished the layout compiler
 
+* Fixed QWERTY keymap layout
 * Fixed typing in notes
 * Fixed powering off in the widgets page waiting until user has returned to dekstop
