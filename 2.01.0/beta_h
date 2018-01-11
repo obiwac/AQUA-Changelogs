@@ -2,7 +2,6 @@
 + Finally added a proper cursor
 + New "Run" dialog on the desktop to quickly run commands
 + Added "aqua version" string placeholder, used in the "About" app
-+ Finished the layout compiler
 
 * Fixed QWERTY keymap layout
 * Fixed typing in notes
