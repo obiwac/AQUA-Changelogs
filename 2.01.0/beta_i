@@ -7,3 +7,6 @@
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
 * Fixed the mono font corrupting
+
+- Removed the "About" application greeting
+- Deactivated the Christmas theme
