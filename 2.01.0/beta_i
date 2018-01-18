@@ -1,14 +1,9 @@
 
-+ Analog clock applet with clock icon
-+ More has been added to the "Specs" app
++ A RAM indicator has been added to the "Specs" app
 + Finished the layout compiler
-+ Loading screen
 + Added functionality for the "DELETE" key in notes
 + Added new "Custom" app that runs the compiled layout code
 
-* Transitions / animations are now based on CPU speed
-* Fixed the CMOS clock
 * Fixed the mono font corrupting
 
-- Removed the "About" application greeting
 - Deactivated the Christmas theme
