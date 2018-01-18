@@ -5,5 +5,3 @@
 
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
-
-- Removed the "About" application greeting
