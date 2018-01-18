@@ -3,6 +3,7 @@
 + More has been added to the "Specs" app
 + Finished the layout compiler
 + Loading screen
++ Added functionality for the "DELETE" key in notes
 
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
