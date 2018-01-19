@@ -4,6 +4,7 @@
 + More has been added to the "Specs" app
 + Added more keyboard shortcuts
 + Added a warning dialog when a command is not found in the runner dialog
++ Added an "icon" element to layout
 
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
