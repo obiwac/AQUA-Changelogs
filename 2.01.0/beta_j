@@ -2,6 +2,7 @@
 + Analog clock applet with clock icon
 + Loading screen
 + More has been added to the "Specs" app
++ Added more keyboard shortcuts
 
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
