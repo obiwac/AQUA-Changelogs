@@ -7,6 +7,7 @@
 + Added an "icon" element to layout
 + Added a "sticker" attribute to layout
 + Added warning dialog for when the keyboard is not detected anymore
++ Added "Lorem ipsum" layout placeholder (1KB)
 
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
