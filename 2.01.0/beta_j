@@ -14,3 +14,4 @@
 * Fixed the CMOS clock
 * Fixed the digital clock not being padded
 * Fixed '\n' not working in layout paragraphs
+* Fixed the save / load buttons in the "Note" applet
