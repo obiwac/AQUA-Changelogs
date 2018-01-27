@@ -2,14 +2,15 @@
 + Clock applet with stopwatch along with clock icon
 + Loading screen
 + More has been added to the "Specs" app (and thus some new layout placeholders)
-+ Added more keyboard shortcuts
-+ Added a warning dialog when a command is not found in the runner dialog
-+ Added an "icon" element to layout
-+ Added a "sticker" attribute to layout
-+ Added warning dialog for when the keyboard is not detected anymore
-+ Added "lorem ipsum" layout placeholder (1KB)
-+ Added "pre" layout element that basically just acts as a monospace paragraph
-+ Added a fade animation when booting
++ More keyboard shortcuts
++ Warning dialog when a command is not found in the runner dialog
++ "icon" element to layout
++ "sticker" attribute to layout
++ Warning dialog for when the keyboard is not detected anymore
++ "lorem ipsum" layout placeholder (1KB)
++ "pre" layout element that basically just acts as a monospace paragraph
++ Fade animation when booting
++ New "theme" command in runner to set your theme
 
 - Removed all greetings when booting
 - Removed the "Custom" app (for now)
