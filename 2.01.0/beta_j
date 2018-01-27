@@ -1,7 +1,7 @@
 
 + Clock applet with stopwatch along with clock icon
 + Loading screen
-+ More has been added to the "Specs" app
++ More has been added to the "Specs" app (and thus some new layout placeholders)
 + Added more keyboard shortcuts
 + Added a warning dialog when a command is not found in the runner dialog
 + Added an "icon" element to layout
@@ -11,6 +11,7 @@
 + Added "pre" layout element that basically just acts as a monospace paragraph
 
 - Removed all greetings when booting
+- Removed the "Custom" app (for now)
 
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
