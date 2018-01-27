@@ -10,6 +10,8 @@
 + Added "lorem ipsum" layout placeholder (1KB)
 + Added "pre" layout element that basically just acts as a monospace paragraph
 
+- Removed all greetings when booting
+
 * Transitions / animations are now based on CPU speed
 * Fixed the CMOS clock
 * Fixed the digital clock not being padded
