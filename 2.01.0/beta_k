@@ -1,5 +1,6 @@
 
 + "reboot" command added to the runner
++ Using numbers 1 → 4 you can open the different dropdowns in the widgets page
 
 * The widgets page updates every minute
 * The error background colour (open "Utilities" to see why) is now a much easier-on-the-eye red
