@@ -8,3 +8,4 @@
 * Expanded the 4096 character limit in the "notes" applet
 * RAM units are automatically appended
 * Changing themes will now change all system resources on the fly
+* Finally fixed the CMOS RTC for real now
