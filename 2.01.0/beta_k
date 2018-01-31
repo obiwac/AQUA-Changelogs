@@ -9,6 +9,7 @@
 * RAM units are automatically appended
 * Changing themes will now change all system resources on the fly
 * Finally fixed the CMOS RTC for real now
-* HUGE optimizations (approx. 4 times faster animations)
+* HUGE optimizations (theoretically approx. 4 times faster animations)
 * Fixed bug where the screen would be unaligned by 1 pixel
 * Theme changing will now change the icons in the widgets view
+* Icons (and thus by extention text / fonts) have been sped up by only calculating the alpha for the partially transparent pixels and normally drawing the opaque pixels and ignoring the translucent ones
