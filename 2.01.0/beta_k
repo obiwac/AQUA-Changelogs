@@ -10,3 +10,4 @@
 * Changing themes will now change all system resources on the fly
 * Finally fixed the CMOS RTC for real now
 * HUGE optimizations (approx. 4 times faster animations)
+* Fixed bug where the screen would be unaligned by 1 pixel
