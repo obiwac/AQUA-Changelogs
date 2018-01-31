@@ -9,3 +9,4 @@
 * RAM units are automatically appended
 * Changing themes will now change all system resources on the fly
 * Finally fixed the CMOS RTC for real now
+* HUGE optimizations (approx. 4 times faster animations)
