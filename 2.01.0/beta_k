@@ -2,7 +2,7 @@
 + "reboot" command added to the runner
 + Using numbers 1 → 4 you can open the different dropdowns in the widgets page
 + Added "Credits" application
-+ Added max USB version to "Specs" application
++ Added max USB version to "Specs" application and thus new "usb version" placeholder
 
 * The widgets page updates every minute and now has a fade transition when anything happens
 * The error background colour (open "Utilities" to see why) is now a much easier-on-the-eye red
