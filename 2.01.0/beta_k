@@ -13,3 +13,4 @@
 * Fixed bug where the screen would be unaligned by 1 pixel
 * Theme changing will now change the icons in the widgets view
 * Icons (and thus by extention text / fonts) have been sped up by only calculating the alpha for the partially transparent pixels and normally drawing the opaque pixels and ignoring the translucent ones
+* Fixed theme background colours being slightly off in the widgets view
