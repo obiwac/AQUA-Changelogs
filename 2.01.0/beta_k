@@ -4,6 +4,7 @@
 + Added "Credits" application
 + Added max USB version to "Specs" application and thus new "usb version" placeholder
 + Added "anchor", "absolute", "x" and "y" attributes for freely positioning elements in an AUI context
++ Added "bloom" command to runner
 
 * The widgets page updates every minute and now has a fade transition when anything happens
 * The error background colour (open "Utilities" to see why) is now a much easier-on-the-eye red
@@ -21,3 +22,4 @@
 * Fixed a few bugs to do with the layout compiler
 * Changed the "AQUA" applications tab to "Tools" and added a Lorem ipsum paragraph
 * Made the fire theme (theme id 6) much better looking
+* Changed theme changing animation
