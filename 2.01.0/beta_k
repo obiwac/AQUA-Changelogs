@@ -19,3 +19,4 @@
 * Fixed theme background colours being slightly off in the widgets view
 * Fixed the example widgets background
 * Fixed a few bugs to do with the layout compiler
+* Changed the "AQUA" applications tab to "Tools" and added a Lorem ipsum paragraph
