@@ -17,3 +17,4 @@
 * Icons (and thus by extention text / fonts) have been sped up by only calculating the alpha for the partially transparent pixels and normally drawing the opaque pixels and ignoring the translucent ones
 * Fixed theme background colours being slightly off in the widgets view
 * Fixed the example widgets background
+* Fixed a few bugs to do with the layout compiler
