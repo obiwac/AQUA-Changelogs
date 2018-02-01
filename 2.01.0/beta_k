@@ -5,6 +5,7 @@
 + Added max USB version to "Specs" application and thus new "usb version" placeholder
 + Added "anchor", "absolute", "x" and "y" attributes for freely positioning elements in an AUI context
 + Added "bloom" command to runner
++ Added "cursor" command to runner to toggle cursor colour between black/white
 
 * The widgets page updates every minute and now has a fade transition when anything happens
 * Now the clock applet has a fade transition when anything happens
