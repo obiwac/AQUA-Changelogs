@@ -25,3 +25,4 @@
 * Changed the "AQUA" applications tab to "Tools" and added a Lorem ipsum paragraph
 * Made the fire theme (theme id 6) much better looking
 * Changed theme changing animation
+* Layout compiling is now much faster
