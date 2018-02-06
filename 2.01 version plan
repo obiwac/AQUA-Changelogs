@@ -1,0 +1,7 @@
+
+2.01.0 The version I am about to release, contains the base of the 2.01 update
+2.01.1 Added language (and font) support for English, French, Dutch, German, Spanish, Hungarian, Romanian, Serbian, Ukrainian, Russian, Greek and Japanese
+2.01.2 Added a LuaJIT compiler, a HTML parser and webbrowser and maked some drivers for the driver database
+2.01.3 Fully added networking, so now that webbrowser can be used
+2.01.4 Added sound support (AC97 and Intel HD) + sound effects and stuff
+2.01.5 Added USB support
