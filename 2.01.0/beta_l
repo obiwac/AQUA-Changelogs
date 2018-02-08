@@ -4,4 +4,4 @@
 
 * Fixed clock applet changing time whilst appearing
 * Fixed animation speed
-* Switched from ASCII to AQUA encoding
+* Switched from ASCII to AQUA text encoding
