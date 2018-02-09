@@ -2,7 +2,6 @@
 + Added animation command
 + 1 second of loading time :3
 
-* Fixed the "Test" app
 * Fixed clock applet changing time whilst appearing
 * Fixed the clock applet bugging out sometimes
 * Fixed animation speed
