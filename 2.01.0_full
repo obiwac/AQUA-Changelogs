@@ -3,3 +3,4 @@
 + Added a CPU speed threshold to cope better with slower systems
 
 * Fixed the applets
+* Moved "Specs" app to the "Tools" tab
