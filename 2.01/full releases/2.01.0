@@ -16,5 +16,7 @@
 * Renamed the "Utils" app to "Utilities"
 * Tweaked the monospace font to suit the rest of the system better (although I probably will change it back later on)
 * Updated the "Credits" app
+* Smooth scrolling in note applet
+* Now you can move the mouse cursor while layout is compiling
 
 - Removed lorem ipsum paragraph from the "AQUA" application
