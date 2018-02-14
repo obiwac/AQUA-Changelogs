@@ -3,7 +3,7 @@
 + Added a CPU speed threshold to cope better with slower systems
 + Added full support for typing and displaying japanese hiragana text
 + Added "keymap" command to switch between QWERTY, QWERTZ, AZERTY and hiragana input methods
-+ Added "language" command to switch between english, spanish, dutch, german, spanish and japanese
++ Added "language" command to switch between english, french, spanish, dutch, german, spanish and japanese
 + Added an highly optimized mode, activated when a particularly slow CPU is detected. It disables things like dynamic glass.
 + Added support for certain special characters in some languages
 
