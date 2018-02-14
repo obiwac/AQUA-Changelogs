@@ -11,5 +11,7 @@
 * Revamped the whole text system to now support UTF-16
 * Fixed the applets
 * Moved "Specs" app to the "Tools" tab
+* Renamed the "Specs" app to "Specifications"
+* Renamed the "Utils" app to "Utilities"
 
 - Removed lorem ipsum paragraph from the "AQUA" application
