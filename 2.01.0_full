@@ -1,6 +1,15 @@
 
 + Added a "aqua beta" layout placeholder
 + Added a CPU speed threshold to cope better with slower systems
++ Added full support for typing and displaying japanese hiragana text
++ Added "keymap" command to switch between QWERTY, QWERTZ, AZERTY and hiragana input methods
++ Added an highly optimized mode, activated when a particularly slow CPU is detected. It disables things like dynamic glass.
++ Added support for certain special characters in some languages
 
+* Animation speeds are more consistent
+* Blitting to the screen is now 2x faster
+* Revamped the whole text system to now support UTF-16
 * Fixed the applets
 * Moved "Specs" app to the "Tools" tab
+
+- Removed lorem ipsum paragraph from the "AQUA" application
