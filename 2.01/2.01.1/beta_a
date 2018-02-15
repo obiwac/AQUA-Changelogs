@@ -4,3 +4,4 @@
 + Cyrillic font support
 
 * Dates are translated
+* Now the BDA is scanned for boot keys instead of polling while booting. This will reduce loading time.
