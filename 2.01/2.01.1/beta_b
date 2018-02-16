@@ -3,3 +3,5 @@
 
 * Seperated the translators section from the rest of the "Credits" app
 * Moved the "Specifications" application back to the "Random" tab
+
+- Drastically reduced RAM consumption
