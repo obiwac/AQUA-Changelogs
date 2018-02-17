@@ -5,5 +5,6 @@
 * Seperated the translators section from the rest of the "Credits" app
 * Moved the "Specifications" application back to the "Random" tab
 * If a dialog entry is too large, it will use a smaller font
+* Now you can use the application's raw name (without translation) as an argument for the "open" command
 
 - Drastically reduced RAM consumption and file size
