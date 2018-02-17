@@ -7,5 +7,6 @@
 * If a dialog entry is too large, it will use a smaller font
 * Now you can use the application's raw name (without translation) as an argument for the "open" command
 * Added a pause in the wizard between when the "Hello" appears and the "Click to continue ..."
+* New font storage system
 
 - Drastically reduced RAM consumption and file size
