@@ -1,3 +1,5 @@
 + Added a typing dialog
 
-* Changed the font rendering system to FreeType
+* New font storage system
+
+- Reduces disk space
