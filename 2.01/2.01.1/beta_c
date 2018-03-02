@@ -1,6 +1,7 @@
 
 + New "flag" layout element
 + More keymaps
++ Added "outb" command in run dialog (only in kernel compat wrapper)
 
 * New font storage system
 
